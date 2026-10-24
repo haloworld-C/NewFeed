@@ -1,4 +1,4 @@
-# NewFeed — 个人 AI RSS
+# NewsFeed — 个人 AI RSS
 
 个人 AI 推送源，目前包含：
 
