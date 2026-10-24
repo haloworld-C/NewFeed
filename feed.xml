@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>每日新闻 · 国内+国外</title>
+<link>https://github.com/haloworld-C/NewFeed</link>
+<atom:link href="https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
+<description>每天 2 条重要新闻：国内 1 条 + 国外 1 条。由 Muse 每日筛选、核实后更新。</description>
+<language>zh-cn</language>
+<lastBuildDate>Sat, 24 Oct 2026 11:35:00 +0800</lastBuildDate>
+<item>
+<title>西藏那曲巴青县 7.0 级地震已致 16 人遇难、76 人受伤，救援持续</title>
+<link>https://k.sina.cn/article_1644114654_61ff32de02002c6ko.html?from=news</link>
+<guid isPermaLink="true">https://k.sina.cn/article_1644114654_61ff32de02002c6ko.html?from=news</guid>
+<pubDate>Fri, 23 Oct 2026 15:06:00 +0800</pubDate>
+<category>国内</category>
+<description><![CDATA[10 月 22 日 22 时 33 分，西藏那曲市巴青县发生 7.0 级地震。据新华社消息，截至 10 月 23 日 13 时，地震已造成 16 人遇难、76 人受伤，房屋倒塌及受损共 339 户。国家地震灾害应急响应已提升至三级，消防救援等力量持续赶赴灾区，救灾物资陆续运抵。这是当前国内最重要的突发事件，伤亡与安置情况仍在更新。]]></description>
+</item>
+<item>
+<title>俄乌同意在奥列什基暂时停火，10 月 29 日起疏散平民、运送援助</title>
+<link>https://nypost.com/2026/10/23/world-news/melania-trump-secures-cease-fire-in-ukrainian-city-on-brink-of-humanitarian-catastrophe/</link>
+<guid isPermaLink="true">https://nypost.com/2026/10/23/world-news/melania-trump-secures-cease-fire-in-ukrainian-city-on-brink-of-humanitarian-catastrophe/</guid>
+<pubDate>Sat, 24 Oct 2026 08:35:00 +0800</pubDate>
+<category>国外</category>
+<description><![CDATA[白宫方面称，俄乌已同意在赫尔松地区奥列什基暂时停火：局部停火将于 10 月 29 日开始，用于疏散当地以老年人为主的居民并运送食品、药品等人道物资；俄方另称俄美乌会谈将于 11 月上旬在阿布扎比举行（新华社晨报与美媒报道相互印证）。这是俄乌冲突近期少见的实质性人道进展，后续执行情况值得跟踪。]]></description>
+</item>
+</channel>
+</rss>
