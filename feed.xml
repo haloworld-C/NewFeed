@@ -6,7 +6,7 @@
 <atom:link href="https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
 <description>个人 AI 推送：每日重要新闻 + 每周 Great Books 深度解读。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 25 Oct 2026 12:33:00 +0800</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 18:40:02 +0800</lastBuildDate>
 
 <item>
 <title>【国内】五中全会前夕六省人事调整：湖南、云南换帅，多省酝酿新省长</title>
@@ -19,6 +19,52 @@
 </item>
 
 <item>
+<title>【国内】台风“蔷琵”影响华东：台湾 1 人死亡、上百人受伤，上海转移 6 万余人</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-2</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国内</category>
+<category>台风</category>
+<category>公共安全</category>
+<description><![CDATA[台风“蔷琵”掠过台湾东北部近海，台湾 1 人死亡、上百人受伤，逾千人撤离；上海发布避险转移指令，转移 6.05 万人。台风随后沿浙江东部近海北上。]]></description>
+</item>
+<item>
+<title>【国内】国办印发人工智能就业意见：18 项任务，减缓岗位替代冲击</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-3</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国内</category>
+<category>人工智能</category>
+<category>就业</category>
+<category>政策</category>
+<description><![CDATA[国务院办公厅发布构建就业友好型发展方式的意见：拓展 AI 就业新空间、开发新职业，同时稳慎把握劳动密集型行业应用节奏，建立失业缓冲，治理算法就业歧视。]]></description>
+</item>
+<item>
+<title>【国内】前三季度财政数据：一般公共预算收入 17.23 万亿元，同比增长 5.1%</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-4</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国内</category>
+<category>财政</category>
+<category>经济</category>
+<description><![CDATA[财政部数据：前三季度全国一般公共预算收入约 17.23 万亿元，同比增长 5.1%，增幅较上半年提高 0.4 个百分点；税收收入增长 6.1%。]]></description>
+</item>
+<item>
+<title>【国内】李强主持国务院常务会议：统筹人口与经济社会发展，服务业扩能提质</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-5</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国内</category>
+<category>国务院</category>
+<category>服务业</category>
+<description><![CDATA[会议研究统筹人口与经济社会发展有关工作，要求推进服务业扩能提质，加强融资、用地、人才、数据支持，盘活用好闲置资源。]]></description>
+</item>
+
+<item>
 <title>【国外】美情报警告：伊朗针对美方人员的致命图谋已到“后期阶段”</title>
 <link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
 <guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international</guid>
@@ -26,6 +72,54 @@
 <category>新闻</category>
 <category>国外</category>
 <description><![CDATA[美国国家情报总监 Jay Clayton 在 10 月 23 日致国务卿鲁比奥的备忘录中警告，伊朗针对美方人员的行动已大幅加强，致命图谋在中东及其他地区均已到“后期阶段”。此前美方已下令沙特非紧急人员及家属撤离，并于 10 月 24 日更新十多个海湾和中东国家的旅行提示，理由是伊朗支持的胡塞武装威胁上升。伊朗战争已近八个月，此事加剧了地区升级与美方人员安全担忧。]]></description>
+</item>
+
+<item>
+<title>【国外】金正恩经新开通大桥访问丹东并返朝，中朝经贸升温信号</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-2</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国外</category>
+<category>朝鲜</category>
+<category>中朝关系</category>
+<description><![CDATA[金正恩 10 月 24 日经新开通的新鸭绿江公路大桥到访丹东，参观朝鲜战争纪念设施后于 25 日返朝，被视为中朝扩大经贸关系的动作。]]></description>
+</item>
+<item>
+<title>【国外】伊朗军方称在阿巴斯港上空击落一架美军 LUCAS 无人机</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-3</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国外</category>
+<category>伊朗</category>
+<category>美国</category>
+<category>中东</category>
+<description><![CDATA[据塔斯尼姆通讯社，伊朗防空系统在南部港口城市阿巴斯港上空击落一架美军 LUCAS 无人机；正值美情报警告伊朗图谋升级，美伊紧张再升。]]></description>
+</item>
+<item>
+<title>【国外】PHP 双严重漏洞引爆全球修补潮，利用尝试达数百万次</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-4</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国外</category>
+<category>网络安全</category>
+<category>PHP</category>
+<category>科技</category>
+<description><![CDATA[PHP 两个 CVSS 9.2 严重漏洞可未授权远程执行代码，公开后利用尝试激增至数百万次；多国政府与机构紧急处置，NSA 敦促立即更新或下线。]]></description>
+</item>
+<item>
+<title>【国外】希腊通过法案：2027 年起禁止 15 岁以下儿童使用社交媒体</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-5</guid>
+<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<category>新闻</category>
+<category>国外</category>
+<category>希腊</category>
+<category>社交媒体</category>
+<category>未成年人</category>
+<description><![CDATA[希腊议会通过法案，2027 年 1 月 1 日起禁止 15 岁以下儿童使用社交媒体，平台须在约两个半月内拿出年龄核验与隐私方案。]]></description>
 </item>
 
 <item>
