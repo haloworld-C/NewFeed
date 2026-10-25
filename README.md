@@ -9,6 +9,7 @@
 
 ```text
 https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml
+[国内源]https://gh-proxy.org/https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml
 ```
 
 ## 标签约定
