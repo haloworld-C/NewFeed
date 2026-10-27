@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
 <description>个人 AI 推送：每日重要新闻 + 每周 Great Books 深度解读。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 26 Oct 2026 09:38:47 +0800</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 09:39:21 +0800</lastBuildDate>
 
+<item>
+<title>每日新闻 · 2026-10-27（国内 5 条 + 国外 5 条）</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-27.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-27.md#2026-10-27</guid>
+<pubDate>Tue, 27 Oct 2026 09:39:21 +0800</pubDate>
+<category>新闻</category>
+<category>金融</category>
+<category>中德关系</category>
+<category>能源</category>
+<category>进博会</category>
+<category>以色列选举</category>
+<category>俄乌局势</category>
+<category>中东局势</category>
+<description><![CDATA[【国内】央行设立债市非银大额赎回互换便利：央行在债市系统性压力情景下为资管机构提供应急流动性，补上债市稳市一环。
+【国内】德国总统施泰因迈尔抵达安徽，开始5天国事访问：时隔近8年再次访华，中德全方位战略伙伴关系再受关注。
+【国内】我国风电和太阳能发电累计装机突破20亿千瓦：截至9月底达20.1亿千瓦，太阳能13.1亿千瓦、风电7.0亿千瓦。
+【国内】中金公司吸并东兴证券、信达证券完成交割：新增A股31.04亿股，11.36亿股10月29日上市流通。
+【国内】第九届进博会首批展品进馆：11月5日至10日在上海举行，162个国家、地区和国际组织参与。
+【国外】以色列议会选举今日举行：近40年来首次按计划投票，2023年冲突后首次大选，两阵营均难单独过半。
+【国外】巴西败选方拒认结果：弗拉维奥·博索纳罗被禁出境，称将组织反对派并寻求推翻选举结果。
+【国外】乌克兰南部奥列什基局地停火今日开始：运送人道物资并撤离居民，成败关乎11月三方谈判。
+【国外】叙利亚关闭唯一对约旦口岸：约旦空袭南叙致5名平民死亡，双向客货交通全部暂停。
+【国外】“麦加协议”三国高官首访德黑兰：沙特、土耳其、巴基斯坦联合访伊，伊朗称会谈“非常好”。]]></description>
+</item>
 <item>
 <title>【国内】二十届五中全会今日开幕，将持续至29日，聚焦全面从严治党</title>
 <link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
