@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Hal · 个人 AI 推送</title>
 <link>https://github.com/haloworld-C/NewFeed</link>
 <atom:link href="https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
 <description>个人 AI 推送：每日重要新闻 + 每周 Great Books 深度解读。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 27 Oct 2026 09:39:21 +0800</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 12:11:44 +0800</lastBuildDate>
+
 
 <item>
 <title>每日新闻 · 2026-10-27（国内 5 条 + 国外 5 条）</title>
@@ -20,242 +21,228 @@
 <category>进博会</category>
 <category>以色列选举</category>
 <category>俄乌局势</category>
-<category>中东局势</category>
-<description><![CDATA[【国内】央行设立债市非银大额赎回互换便利：央行在债市系统性压力情景下为资管机构提供应急流动性，补上债市稳市一环。
-【国内】德国总统施泰因迈尔抵达安徽，开始5天国事访问：时隔近8年再次访华，中德全方位战略伙伴关系再受关注。
-【国内】我国风电和太阳能发电累计装机突破20亿千瓦：截至9月底达20.1亿千瓦，太阳能13.1亿千瓦、风电7.0亿千瓦。
-【国内】中金公司吸并东兴证券、信达证券完成交割：新增A股31.04亿股，11.36亿股10月29日上市流通。
-【国内】第九届进博会首批展品进馆：11月5日至10日在上海举行，162个国家、地区和国际组织参与。
-【国外】以色列议会选举今日举行：近40年来首次按计划投票，2023年冲突后首次大选，两阵营均难单独过半。
-【国外】巴西败选方拒认结果：弗拉维奥·博索纳罗被禁出境，称将组织反对派并寻求推翻选举结果。
-【国外】乌克兰南部奥列什基局地停火今日开始：运送人道物资并撤离居民，成败关乎11月三方谈判。
-【国外】叙利亚关闭唯一对约旦口岸：约旦空袭南叙致5名平民死亡，双向客货交通全部暂停。
-【国外】“麦加协议”三国高官首访德黑兰：沙特、土耳其、巴基斯坦联合访伊，伊朗称会谈“非常好”。]]></description>
+<description><![CDATA[<h3>国内</h3><ol>
+<li><strong>1. 央行设立债市非银大额赎回互换便利</strong><br/>中国人民银行10月26日发布公告，决定设立债市非银大额赎回互换便利（BNSF）。 <a href="https://www.cs.com.cn/xwzx/01/2026/10/27/detail_2026102710047348.html">原文</a></li>
+<li><strong>2. 德国总统施泰因迈尔抵达安徽，开始 5 天国事访问</strong><br/>德国总统施泰因迈尔10月27日抵达安徽合肥，开始对中国进行为期5天的国事访问。 <a href="https://news.youth.cn/gj/202610/t20261027_16934890.htm">原文</a></li>
+<li><strong>3. 我国风电和太阳能发电累计装机突破 20 亿千瓦</strong><br/>国家能源局10月26日宣布，截至2026年9月底，我国风电和太阳能发电累计装机容量达到20.1亿千瓦，其中太阳能发电13.1亿千瓦，同比增长16.5%；风电7.0亿千瓦，同比增长20.4%。 <a href="https://www.cs.com.cn/xwzx/01/2026/10/27/detail_2026102710047358.html">原文</a></li>
+<li><strong>4. 中金公司吸并东兴证券、信达证券完成交割</strong><br/>中金公司10月26日晚公告，换股吸收合并东兴证券、信达证券已完成交割。 <a href="https://www.21jingji.com/article/20261027/herald/d9aa82131cf01e1d35aa5db8fd42c069.html">原文</a></li>
+<li><strong>5. 第九届进博会首批展品进馆，11 月 5 日开幕进入冲刺</strong><br/>10月26日上午，10辆满载全球创新产品的卡车驶入国家会展中心（上海），第九届中国国际进口博览会首批展品正式进馆，布展搭建工作10月27日正式启动，计划11月3日完成全部布展。 <a href="https://www.21jingji.com/article/20261026/herald/fdfebcab65614ff513eaf7d7b75c055a.html">原文</a></li>
+</ol>
+<h3>国外</h3><ol>
+<li><strong>1. 以色列议会选举今日举行，近 40 年来首次按计划投票</strong><br/>以色列第26届议会选举于10月27日举行，这是该国近40年来首次按计划而非提前举行的议会选举，也是2023年新一轮巴以冲突爆发以来的首次全国大选。 <a href="https://theglobaljournal.news/en/article/israel-heads-to-october-27-election-as-netanyahus-far-right-coalition-faces-a-tough-test-in-opinion-polls">原文</a></li>
+<li><strong>2. 巴西败选方拒认结果：弗拉维奥·博索纳罗被禁出境，称将组织反对派</strong><br/>据法新社10月27日报道，巴西最高法院一名法官已禁止败选的右翼参议员弗拉维奥·博索纳罗出境并责令其上交护照。 <a href="https://stockbiz.vn/en/news/morning-international-news-october-27-extremely-rare-move-ahead-of-us-midterm-elections/42467267">原文</a></li>
+<li><strong>3. 乌克兰南部奥列什基局地停火今日开始，运送人道物资并撤离居民</strong><br/>据共同社报道，为向俄占区孤立的乌克兰南部赫尔松州奥列什基运送人道物资并撤离居民，俄乌双方表明的局地停火期于日本时间10月27日上午10时开始，由美国斡旋达成。 <a href="https://www.iwate-np.co.jp/article/kyodo/2026/10/27/1653616">原文</a></li>
+<li><strong>4. 叙利亚关闭唯一对约旦口岸，约旦空袭南叙致 5 名平民死亡</strong><br/>据路透社10月27日晨报道，叙利亚关闭了与约旦之间的纳西卜口岸，双向客货交通全部暂停，原因是叙南部德拉省地面局势生变；纳西卜是两国之间唯一同时办理客货通关的口岸。 <a href="https://stockbiz.vn/en/news/morning-international-news-october-27-extremely-rare-move-ahead-of-us-midterm-elections/42467267">原文</a></li>
+<li><strong>5. “麦加协议”三国高官首访德黑兰，伊朗称会谈“非常好”</strong><br/>据法新社10月27日晨报道，沙特、土耳其、巴基斯坦三方高官10月26日在德黑兰与伊朗举行会谈，伊朗方面称讨论“非常好”。 <a href="https://stockbiz.vn/en/news/morning-international-news-october-27-extremely-rare-move-ahead-of-us-midterm-elections/42467267">原文</a></li>
+</ol>
+<p>📖 <a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-27.md">扩展阅读：2026-10-27 深度解读全文</a></p>]]></description>
+<content:encoded><![CDATA[<h2>每日新闻 · 2026-10-27</h2>
+<h3>国内</h3>
+<h4>1. 央行设立债市非银大额赎回互换便利</h4>
+<p>中国人民银行 10 月 26 日发布公告，决定设立债市非银大额赎回互换便利（BNSF）。这是在资管机构面临群体性流动性风险、债券市场出现系统性压力的特定情景下，支持具有系统性影响的银行理财子公司、公募基金管理人（或对应母行、证券母公司等）从央行借入央行票据用于市场回购融资，以购买本公司遭赎回公募产品的符合条件的债券或产品份额，并向央行抵押。</p>
+<p>为什么重要：这是继 2024 年 10 月证券、基金、保险公司互换便利之后，央行补上的债市一环，两者合起来构成覆盖股市和债市的非银应急流动性支持机制，目的是在债市大幅波动时阻断“赎回—抛售”自我强化的循环，守住不发生系统性风险的底线。需要划清边界：BNSF 只用于极端流动性情景，不是日常流动性供应；因机构自身信用恶化、信用债违约产生的信用风险，仍按市场化、法治化原则处理，不等于刚性兑付。背景数字：截至 2025 年末，银行理财产品存续规模 33 万亿元，公募基金资产净值 38 万亿元，资管机构已是债市的重要参与力量。</p>
+<p>后续看点：参与机构的审慎管理要求如何落地、首批参与名单与操作细则，以及该工具是否会在未来债市波动中首次被启用。</p>
+<p>来源：<a href="https://www.cs.com.cn/xwzx/01/2026/10/27/detail_2026102710047348.html">中国证券报</a></p>
+<h4>2. 德国总统施泰因迈尔抵达安徽，开始 5 天国事访问</h4>
+<p>德国总统施泰因迈尔 10 月 27 日抵达安徽合肥，开始对中国进行为期 5 天的国事访问。这是德国总统时隔近 8 年再次访华。外交部此前表示，中方愿以此访为契机，巩固互信、深化合作、共谋创新，推动中德关系取得更大发展，助力中欧关系行稳致远。</p>
+<p>为什么重要：中德是世界第二和第三大经济体，双边关系不仅关乎两国，也承载着欧洲和世界的期待；在全球贸易与地缘摩擦升温的背景下，此访是观察中欧关系走向的重要窗口。行程除北京外还包括安徽，产业与创新合作料是重点议题。</p>
+<p>后续看点：习近平主席与施泰因迈尔的会谈内容、双方在经贸、绿色转型与科技创新上是否达成新的合作共识。</p>
+<p>来源：<a href="https://news.youth.cn/gj/202610/t20261027_16934890.htm">新华社（经中国青年网）</a></p>
+<h4>3. 我国风电和太阳能发电累计装机突破 20 亿千瓦</h4>
+<p>国家能源局 10 月 26 日宣布，截至 2026 年 9 月底，我国风电和太阳能发电累计装机容量达到 20.1 亿千瓦，其中太阳能发电 13.1 亿千瓦，同比增长 16.5%；风电 7.0 亿千瓦，同比增长 20.4%。今年 1 至 9 月，风光新增装机约 1.7 亿千瓦，风光发电量 19333 亿千瓦时，风光发电增量占全社会新增用电量的 64%。</p>
+<p>为什么重要：20 亿千瓦标志着新能源在我国电力装机结构中的主体地位进一步夯实，新型电力系统建设取得重大阶段性成果；规模约占全球新能源总装机的一半，连续多年稳居全球首位。今年迎峰度夏最大负荷日午间，风光最大出力占当时总负荷比重超 40%，对电力保供的实际支撑已经显现。同时，1 至 9 月风光投资约占能源领域投资的三分之一，是拉动能源投资的重要引擎。</p>
+<p>后续看点：装机优势如何转化为稳定可靠的供电能力——“十五五”可再生能源规划提出的新增可靠顶峰发电能力、消纳与系统调节建设将是关键。</p>
+<p>来源：<a href="https://www.cs.com.cn/xwzx/01/2026/10/27/detail_2026102710047358.html">中国证券报</a></p>
+<h4>4. 中金公司吸并东兴证券、信达证券完成交割</h4>
+<p>中金公司 10 月 26 日晚公告，换股吸收合并东兴证券、信达证券已完成交割。本次交易涉及新增发行 A 股 31.04 亿股，其中 11.36 亿股将于 10 月 29 日上市流通。</p>
+<p>为什么重要：这是近年来券业整合的标志性交易，通过整合资本实力、客户资源和业务网络，中金有望提升核心竞争力和综合金融服务能力，向国际一流投行迈进；同时也折射出证券行业“并得好、融得深”的整合主线正在加速，行业集中度将进一步提升。</p>
+<p>后续看点：10 月 29 日新增股份上市后的市场表现，以及三家机构在业务、人员与系统整合上的实际进展。</p>
+<p>来源：<a href="https://www.21jingji.com/article/20261027/herald/d9aa82131cf01e1d35aa5db8fd42c069.html">21 世纪经济报道（五大信披媒体摘要）</a></p>
+<h4>5. 第九届进博会首批展品进馆，11 月 5 日开幕进入冲刺</h4>
+<p>10 月 26 日上午，10 辆满载全球创新产品的卡车驶入国家会展中心（上海），第九届中国国际进口博览会首批展品正式进馆，布展搭建工作 10 月 27 日正式启动，计划 11 月 3 日完成全部布展。首批展品覆盖医疗设备、工业制造、绿色技术、农食产品等领域，不少将迎来全球首发或亚洲首展，包括西门子医疗全球首款原生 AI 能谱血管造影系统、奥地利 WFL 车铣复合加工中心等。</p>
+<p>为什么重要：本届进博会将于 11 月 5 日至 10 日在上海举行，共有 162 个国家、地区和国际组织参与，超过 4000 家境外企业参展，企业展展览面积首次突破 37 万平方米。在外贸承压的背景下，进博会仍是观察中国对外开放与外资对华信心的重要窗口，首批展品的“含新量”也反映了跨国企业以新产品押注中国市场的意愿。</p>
+<p>后续看点：开幕前的新品发布节奏、签约规模，以及本届进博会在绿色、医疗、智能制造等领域的溢出效应。</p>
+<p>来源：<a href="https://www.21jingji.com/article/20261026/herald/fdfebcab65614ff513eaf7d7b75c055a.html">21 世纪经济报道</a>、<a href="https://www.kankanews.com/detail/7Y2zDoLN4Qo">看看新闻</a></p>
+<h3>国外</h3>
+<h4>1. 以色列议会选举今日举行，近 40 年来首次按计划投票</h4>
+<p>以色列第 26 届议会选举于 10 月 27 日举行，这是该国近 40 年来首次按计划而非提前举行的议会选举，也是 2023 年新一轮巴以冲突爆发以来的首次全国大选。议会共 120 席，组阁需 61 席；民调显示，内塔尼亚胡阵营与反对派阵营均难以单独过半，阿拉伯政党可能在组阁谈判中扮演关键角色。</p>
+<p>为什么重要：这是对内塔尼亚胡执政的首次全民检验，结果将决定加沙战后安排、对伊朗政策以及以色列与美国关系（特朗普此前已公开为内塔尼亚胡背书）的走向。由于政党高度碎片化、至少 10 个政党有望跨过 3.25% 的门槛，选后很可能出现漫长的组阁僵局，新内阁或要到 12 月甚至 2027 年初才能产生。</p>
+<p>后续看点：出口民调与最终席位分布、总统授权组阁的人选，以及组阁谈判是否重演 2019—2020 年一年三选的僵局。</p>
+<p>来源：<a href="https://theglobaljournal.news/en/article/israel-heads-to-october-27-election-as-netanyahus-far-right-coalition-faces-a-tough-test-in-opinion-polls">The Global Journal</a></p>
+<h4>2. 巴西败选方拒认结果：弗拉维奥·博索纳罗被禁出境，称将组织反对派</h4>
+<p>据法新社 10 月 27 日报道，巴西最高法院一名法官已禁止败选的右翼参议员弗拉维奥·博索纳罗出境并责令其上交护照。此前公布的结果显示，现任总统卢拉以 51.8% 的得票率胜出，博索纳罗为 48.2%；博索纳罗拒绝认输，称将寻求推翻选举结果，理由是 10 月 25 日延长投票时间对卢拉有利，并宣称将组织反对派。</p>
+<p>为什么重要：巴西是拉美最大经济体，败选方拒认结果并诉诸“选举舞弊”叙事，可能加剧国内政治撕裂，并考验巴西选举司法机构的权威与社会稳定。这一幕与美国等国的“拒认选举”剧本相似，值得警惕其外溢效应。注：卢拉胜选结果本身已见于昨日简报，今日的新进展是败选阵营的拒认表态与出境禁令。</p>
+<p>后续看点：博索纳罗阵营是否正式提起法律挑战、法院与选举机构的回应，以及街头动员是否出现。</p>
+<p>来源：<a href="https://stockbiz.vn/en/news/morning-international-news-october-27-extremely-rare-move-ahead-of-us-midterm-elections/42467267">法新社（经 Thanh Niên / Stockbiz 转载）</a></p>
+<h4>3. 乌克兰南部奥列什基局地停火今日开始，运送人道物资并撤离居民</h4>
+<p>据共同社报道，为向俄占区孤立的乌克兰南部赫尔松州奥列什基运送人道物资并撤离居民，俄乌双方表明的局地停火期于日本时间 10 月 27 日上午 10 时开始，由美国斡旋达成。据称停火合意由美国总统夫人梅拉尼娅·特朗普居中协调。乌方计划在停火后清除通往奥列什基道路上的地雷，运入食品、水等物资并转移希望撤离的居民。</p>
+<p>为什么重要：如果战斗确实停止、乌方人员得以进入俄占区，这将是极为罕见的安排；停火的成败还可能影响 11 月正在协调中的俄、乌、美三方协议的走向。注：此前已有停火协议的报道，今日是停火期开始执行的新进展。</p>
+<p>后续看点：停火是否被双方切实遵守、地雷清除与首批物资运送是否完成、撤离人数，以及三方谈判能否如期在 11 月举行。</p>
+<p>来源：<a href="https://www.iwate-np.co.jp/article/kyodo/2026/10/27/1653616">共同社（经岩手日报）</a></p>
+<h4>4. 叙利亚关闭唯一对约旦口岸，约旦空袭南叙致 5 名平民死亡</h4>
+<p>据路透社 10 月 27 日晨报道，叙利亚关闭了与约旦之间的纳西卜口岸，双向客货交通全部暂停，原因是叙南部德拉省地面局势生变；纳西卜是两国之间唯一同时办理客货通关的口岸。此前约旦空军空袭了南叙境内被认为是武装分子藏身的地点，约旦方面称上周约旦教堂致命袭击的嫌疑人与该地区活动的“恐怖组织”有关联；约旦军方称行动与大马士革协调进行，但叙政府则称已对约旦的袭击展开调查。叙国家通讯社援引卫生官员称，约旦袭击造成 5 名平民死亡，包括妇女和儿童。</p>
+<p>为什么重要：约旦与叙利亚边境的升级发生在中东多点摩擦升温的背景下，唯一口岸关闭将直接冲击两国贸易与人员往来；双方对空袭是否“协调”的说法不一，也暴露出叙利亚新局势下地区安全协调的脆弱性。</p>
+<p>后续看点：口岸何时重开、双方是否进一步交火、以及约旦教堂袭击调查的进展。</p>
+<p>来源：<a href="https://stockbiz.vn/en/news/morning-international-news-october-27-extremely-rare-move-ahead-of-us-midterm-elections/42467267">路透社（经 Thanh Niên / Stockbiz 转载）</a></p>
+<h4>5. “麦加协议”三国高官首访德黑兰，伊朗称会谈“非常好”</h4>
+<p>据法新社 10 月 27 日晨报道，沙特、土耳其、巴基斯坦三方高官 10 月 26 日在德黑兰与伊朗举行会谈，伊朗方面称讨论“非常好”。代表团会见了伊朗总统佩泽什基安和外长阿拉格齐；沙特外交部声明称，此行是为缓和当前危机下的各方紧张局势。这是三国自 8 月在麦加结成防务联盟以来，首次联合访问德黑兰。</p>
+<p>为什么重要：在伊朗与美国、以色列紧张关系未解的背景下，地区大国以联合姿态访伊，意在为局势降温、防止误判升级；三国联盟与伊朗的直接沟通渠道若能维持，将成为中东危机管理的一条新管线。</p>
+<p>后续看点：会谈是否达成具体的降温措施、三方联盟下一步的协调动作，以及美伊之间的信号是否随之变化。</p>
+<p>来源：<a href="https://stockbiz.vn/en/news/morning-international-news-october-27-extremely-rare-move-ahead-of-us-midterm-elections/42467267">法新社（经 Thanh Niên / Stockbiz 转载）</a></p>
+<p>原文归档：<a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-27.md">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-27.md</a></p>]]></content:encoded>
 </item>
 <item>
-<title>【国内】二十届五中全会今日开幕，将持续至29日，聚焦全面从严治党</title>
+<title>每日新闻 · 2026-10-26（国内 5 条 + 国外 5 条）</title>
 <link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-domestic-1</guid>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26</guid>
 <pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
 <category>新闻</category>
-<category>国内</category>
 <category>五中全会</category>
-<description><![CDATA[中共二十届五中全会10月26日在北京开幕，会期四天，议程包括中央政治局工作报告和推进全面从严治党，距2027年中共二十一大不到一年。]]></description>
-</item>
-<item>
-<title>【国内】花旗证券获批设立，成为国内第七家外资独资券商</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-domestic-2</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
 <category>金融</category>
 <category>资本市场</category>
 <category>对外开放</category>
-<description><![CDATA[证监会10月23日批复设立花旗证券（中国），由花旗100%持股、注册资本12亿元，成为国内第七家外资独资券商，资本市场开放兑现节奏加快。]]></description>
-</item>
-<item>
-<title>【国内】A股三季报密集披露：1035家已放榜，177家净利翻倍</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-domestic-3</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
 <category>A股</category>
 <category>财报</category>
-<description><![CDATA[截至10月25日，1035家A股公司披露三季报，836家盈利、盈利面约80.8%，177家净利同比翻倍，德明利以约324倍增幅暂居增幅王。]]></description>
+<description><![CDATA[<h3>国内</h3><ol>
+<li><strong>1. 二十届五中全会今日开幕，将持续至 29 日，聚焦全面从严治党</strong><br/>中共二十届五中全会于10月26日在北京开幕，会期四天，议程包括中央政治局工作报告和推进全面从严治党等重大问题。 <a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">原文</a></li>
+<li><strong>2. 花旗证券获批设立，成为国内第七家外资独资券商</strong><br/>10月23日，中国证监会正式批复核准设立花旗证券（中国）有限公司，由花旗环球金融控股有限公司100%持股，注册地上海、注册资本12亿元，业务涵盖证券经纪、投资咨询、承销与保荐、自营。 <a href="https://finance.sina.cn/2026-10-26/detail-iniwpfnc2437844.d.html">原文</a></li>
+<li><strong>3. A 股三季报密集披露：1035 家已放榜，177 家净利翻倍</strong><br/>截至10月25日22:30，A股已有1035家上市公司披露2026年三季报，其中836家盈利、盈利面约80.8%，177家公司净利润同比翻倍，存储龙头德明利以约324倍增幅暂居“增幅王”（上年同期亏损约2708万元，本期扭亏）。 <a href="https://www.21jingji.com/article/20261026/herald/e6518dcd5b01831d9d5d23c0cc6af925.html">原文</a></li>
+<li><strong>4. Moonshot 发布 Kimi K3.1 Pro，主动限制可助黑客的模型能力</strong><br/>中国AI初创公司Moonshot于10月24日（周六）发布KimiK3.1Pro，称其为迄今最强的3万亿参数级开源权重模型，上下文窗口达100万token，并同步推出2至3倍速的高速版。 <a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">原文</a></li>
+<li><strong>5. 国资委：持续优化国有经济布局，加强关键核心技术攻关</strong><br/>国务院国资委党委10月23日召开理论学习中心组集体学习会，强调推动国有企业和国有资本做强做优做大，持续优化国有经济布局，加强关键核心技术攻关，增强核心功能、提升核心竞争力，并大力推进国资国企改革落地、提高穿透式监管效能。 <a href="https://www.cs.com.cn/xwzx/01/2026/10/26/detail_2026102610047032.html">原文</a></li>
+</ol>
+<h3>国外</h3><ol>
+<li><strong>1. 巴西卢拉决选逆转连任，拿下第四个总统任期</strong><br/>巴西总统选举第二轮投票于10月25日举行，现任左翼总统卢拉后来居上，以51.76%对48.24%击败右翼参议员、前总统之子弗拉维奥·博索纳罗，赢得第四个非连续任期。 <a href="https://www.reuters.com/world/americas/brazils-lula-reelected-president-runoff-vote-2026-10-26/">原文</a></li>
+<li><strong>2. 塞尔维亚提前议会选举：长期执政的武契奇承认败选，投票率创纪录</strong><br/>塞尔维亚长期亲俄领导人亚历山大·武契奇在10月26日提前议会选举中承认败选，此次投票率创下纪录。 <a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">原文</a></li>
+<li><strong>3. 特朗普称伊朗问题已到“决策时刻”，但表示今天不会发动袭击</strong><br/>美国总统特朗普表示，在伊朗及其支持的胡塞武装对中东美方人员威胁上升之际，已到“必须做出决定”的时刻：要么与德黑兰达成协议，要么恢复打击。 <a href="https://m.cnyes.com/news/id/6637541">原文</a></li>
+<li><strong>4. 马斯克称乌克兰星链接入已全面恢复</strong><br/>SpaceX首席执行官马斯克表示，乌克兰对星链卫星通信系统的全面接入已经恢复。 <a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">原文</a></li>
+<li><strong>5. 特朗普再为内塔尼亚胡背书，呼吁以色列选民 27 日投票给利库德集团</strong><br/>当地时间10月25日，美国总统特朗普在社交媒体“真实社交”上再次为以色列总理内塔尼亚胡背书，称两人“在携手取得胜利的过程中建立了非常棒的关系”，呼吁以色列选民在10月27日的议会选举中投票给内塔尼亚胡所在的利库德集团，让这位“杰出的战士总理”连任，并称两人“必须完成已经开启的事业”。 <a href="https://www.21jingji.com/article/20261026/herald/b9652e6e803cc14f2220c56ecf978b92.html">原文</a></li>
+</ol>
+<p>📖 <a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md">扩展阅读：2026-10-26 深度解读全文</a></p>]]></description>
+<content:encoded><![CDATA[<h2>每日新闻 · 2026-10-26</h2>
+<h3>国内</h3>
+<h4>1. 二十届五中全会今日开幕，将持续至 29 日，聚焦全面从严治党</h4>
+<p>中共二十届五中全会于 10 月 26 日在北京开幕，会期四天，议程包括中央政治局工作报告和推进全面从严治党等重大问题。此次全会距 2027 年秋季的中共二十一大不到一年，被视为观察明年人事布局与党建部署的重要窗口。分析普遍认为，全会重点在于强化党的集中统一领导、权力监督和纪律约束，而非当场进行政治局级别的人事变动。</p>
+<p>来源：<a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">CityNews Daily Buzz</a></p>
+<h4>2. 花旗证券获批设立，成为国内第七家外资独资券商</h4>
+<p>10 月 23 日，中国证监会正式批复核准设立花旗证券（中国）有限公司，由花旗环球金融控股有限公司 100% 持股，注册地上海、注册资本 12 亿元，业务涵盖证券经纪、投资咨询、承销与保荐、自营。这是国内第七家外资独资券商，此前六家分别为摩根大通、高盛、瑞银、渣打、法巴和瑞穗旗下的证券公司。从 6 月陆家嘴论坛表态支持外资新设独资机构到 10 月批文落地仅约四个月，显示资本市场高水平对外开放的兑现节奏在加快；批复同时要求加强数据跨境与投资者个人信息合规管理。</p>
+<p>来源：<a href="https://finance.sina.cn/2026-10-26/detail-iniwpfnc2437844.d.html">中国经济时报（新浪财经）</a></p>
+<h4>3. A 股三季报密集披露：1035 家已放榜，177 家净利翻倍</h4>
+<p>截至 10 月 25 日 22:30，A 股已有 1035 家上市公司披露 2026 年三季报，其中 836 家盈利、盈利面约 80.8%，177 家公司净利润同比翻倍，存储龙头德明利以约 324 倍增幅暂居“增幅王”（上年同期亏损约 2708 万元，本期扭亏）。盈利规模上，中国移动以 1061.98 亿元暂居榜首，宁德时代、紫金矿业分列其后；行业上电子翻倍股最多，有色金属 40 家已披露公司中 35 家同比增长。机构认为当前市场处于“风险偏好修复和盈利验证”阶段，三季报是关键锚。</p>
+<p>来源：<a href="https://www.21jingji.com/article/20261026/herald/e6518dcd5b01831d9d5d23c0cc6af925.html">东方财富研究中心（21 经济网）</a></p>
+<h4>4. Moonshot 发布 Kimi K3.1 Pro，主动限制可助黑客的模型能力</h4>
+<p>中国 AI 初创公司 Moonshot 于 10 月 24 日（周六）发布 Kimi K3.1 Pro，称其为迄今最强的 3 万亿参数级开源权重模型，上下文窗口达 100 万 token，并同步推出 2 至 3 倍速的高速版。值得注意的是，Moonshot 主动削减了新模型可能帮助黑客的网络攻击能力，背景是各国政府与安全研究者日益担忧 AI 会让复杂攻击更便宜、更易自动化；中国上周还提议对 AI 驱动的恶意软件生成与变异技术实施出口管制。</p>
+<p>来源：<a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">CityNews Daily Buzz</a></p>
+<h4>5. 国资委：持续优化国有经济布局，加强关键核心技术攻关</h4>
+<p>国务院国资委党委 10 月 23 日召开理论学习中心组集体学习会，强调推动国有企业和国有资本做强做优做大，持续优化国有经济布局，加强关键核心技术攻关，增强核心功能、提升核心竞争力，并大力推进国资国企改革落地、提高穿透式监管效能。国资委日前召开的扩大会议还提出，抢抓“东数西算”机遇，科学统筹算力基础设施布局，抓好“算电协同”“算水协同”，把算力资源优势转化为产业发展优势，同时稳妥有序发展新质生产力。</p>
+<p>来源：<a href="https://www.cs.com.cn/xwzx/01/2026/10/26/detail_2026102610047032.html">中国证券报</a></p>
+<h3>国外</h3>
+<h4>1. 巴西卢拉决选逆转连任，拿下第四个总统任期</h4>
+<p>巴西总统选举第二轮投票于 10 月 25 日举行，现任左翼总统卢拉后来居上，以 51.76% 对 48.24% 击败右翼参议员、前总统之子弗拉维奥·博索纳罗，赢得第四个非连续任期。卢拉在首轮曾落后约 2 个百分点，决选计票中后期凭借东北部传统票仓翻盘，巴西历史上此前从未有首轮落败者决选逆转获胜。结果也意味着拉美右翼浪潮在巴西受阻，市场方面巴西雷亚尔期货一度大跌，追踪巴西股票的 ETF 在日本交易中跌约 13%。</p>
+<p>来源：<a href="https://www.reuters.com/world/americas/brazils-lula-reelected-president-runoff-vote-2026-10-26/">Reuters</a></p>
+<h4>2. 塞尔维亚提前议会选举：长期执政的武契奇承认败选，投票率创纪录</h4>
+<p>塞尔维亚长期亲俄领导人亚历山大·武契奇在 10 月 26 日提前议会选举中承认败选，此次投票率创下纪录。武契奇上月辞去总统职务并提前大选，寻求以总理身份继续掌权，其政党自 2012 年以来一直执政。此次选举发生在两年学生抗议、腐败指控以及 2024 年火车站雨棚坍塌致 16 人死亡引发的政治动荡之后，败选标志着塞尔维亚政治格局出现重大转折。</p>
+<p>来源：<a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">CityNews Daily Buzz</a></p>
+<h4>3. 特朗普称伊朗问题已到“决策时刻”，但表示今天不会发动袭击</h4>
+<p>美国总统特朗普表示，在伊朗及其支持的胡塞武装对中东美方人员威胁上升之际，已到“必须做出决定”的时刻：要么与德黑兰达成协议，要么恢复打击。他此前暗示可能在 11 月 3 日中期选举后恢复空袭并增派第三个航母打击群，但 10 月 25 日晚又表示“今天不会发动攻击”。美国正缩减中东部分外交与军事人员部署，布伦特原油上周五曾创六个月新高 117 美元/桶，周日晚纽约交易恢复时报 115.36 美元，能源价格已成为中期选举议题。</p>
+<p>来源：<a href="https://m.cnyes.com/news/id/6637541">钜亨网（编译彭博报道）</a></p>
+<h4>4. 马斯克称乌克兰星链接入已全面恢复</h4>
+<p>SpaceX 首席执行官马斯克表示，乌克兰对星链卫星通信系统的全面接入已经恢复。此前马斯克曾称中断是美国防部的决定，现改称是公司因基辅违反服务条款（用星链指挥对俄无人机袭击致人死亡）而限制接入，乌克兰否认这一指控。星链对乌克兰至关重要，既用于指挥对俄能源基础设施的无人机行动，也用于发布俄导弹来袭警报；与此同时，美方官员称下一轮美乌俄工作级会谈可能在几周后于阿布扎比或瑞士举行。</p>
+<p>来源：<a href="https://www.citynewsservice.cn/china-biz-buzz/2026-10-26">CityNews Daily Buzz</a></p>
+<h4>5. 特朗普再为内塔尼亚胡背书，呼吁以色列选民 27 日投票给利库德集团</h4>
+<p>当地时间 10 月 25 日，美国总统特朗普在社交媒体“真实社交”上再次为以色列总理内塔尼亚胡背书，称两人“在携手取得胜利的过程中建立了非常棒的关系”，呼吁以色列选民在 10 月 27 日的议会选举中投票给内塔尼亚胡所在的利库德集团，让这位“杰出的战士总理”连任，并称两人“必须完成已经开启的事业”。这是自 2023 年哈马斯袭击、加沙与黎巴嫩战争以来以色列首次大选，选举结果也将影响美以对伊朗政策的走向。</p>
+<p>来源：<a href="https://www.21jingji.com/article/20261026/herald/b9652e6e803cc14f2220c56ecf978b92.html">CCTV 国际时讯（21 经济网）</a></p>
+<p>原文归档：<a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</a></p>]]></content:encoded>
 </item>
 <item>
-<title>【国内】Moonshot发布Kimi K3.1 Pro，主动限制可助黑客的模型能力</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-domestic-4</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
-<category>人工智能</category>
-<category>科技</category>
-<description><![CDATA[Moonshot发布3万亿参数级开源模型Kimi K3.1 Pro，上下文100万token，并主动削减其可能帮助黑客的网络攻击能力。]]></description>
-</item>
-<item>
-<title>【国内】国资委：持续优化国有经济布局，加强关键核心技术攻关</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-domestic-5</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
-<category>国企改革</category>
-<category>科技</category>
-<description><![CDATA[国资委党委强调推动国企做强做优做大，优化国有经济布局、加强关键核心技术攻关，并抢抓东数西算机遇统筹算力布局。]]></description>
-</item>
-<item>
-<title>【国外】巴西卢拉决选逆转连任，拿下第四个总统任期</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-international-1</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>巴西</category>
-<category>选举</category>
-<description><![CDATA[巴西总统决选10月25日举行，卢拉以51.76%对48.24%击败弗拉维奥·博索纳罗，首轮落败后决选逆转，赢得第四个非连续任期。]]></description>
-</item>
-<item>
-<title>【国外】塞尔维亚提前议会选举：长期执政的武契奇承认败选，投票率创纪录</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-international-2</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>塞尔维亚</category>
-<category>选举</category>
-<description><![CDATA[塞尔维亚提前议会选举投票率创纪录，长期亲俄领导人武契奇承认败选，其政党自2012年以来一直执政，政治格局出现重大转折。]]></description>
-</item>
-<item>
-<title>【国外】特朗普称伊朗问题已到决策时刻，但表示今天不会发动袭击</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-international-3</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>伊朗</category>
-<category>美国</category>
-<category>中东</category>
-<category>石油</category>
-<description><![CDATA[特朗普称须在与伊朗达成协议或恢复打击之间做出决定，但25日晚表示今天不会发动袭击；布伦特原油周日晚报115.36美元，仍处高位。]]></description>
-</item>
-<item>
-<title>【国外】马斯克称乌克兰星链接入已全面恢复</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-international-4</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>乌克兰</category>
-<category>星链</category>
-<category>科技</category>
-<description><![CDATA[马斯克表示乌克兰对星链的全面接入已经恢复；星链对乌方指挥无人机行动和发布导弹来袭警报至关重要。]]></description>
-</item>
-<item>
-<title>【国外】特朗普再为内塔尼亚胡背书，呼吁以色列选民27日投票给利库德集团</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-26.md#2026-10-26-international-5</guid>
-<pubDate>Mon, 26 Oct 2026 09:38:47 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>以色列</category>
-<category>美国</category>
-<category>选举</category>
-<description><![CDATA[特朗普10月25日再次为内塔尼亚胡背书，呼吁以色列选民在27日议会选举中投票给利库德集团，让杰出的战士总理连任。]]></description>
-</item>
-<item>
-<title>【国内】五中全会前夕六省人事调整：湖南、云南换帅，多省酝酿新省长</title>
+<title>每日新闻 · 2026-10-25（国内 5 条 + 国外 5 条）</title>
 <link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic</guid>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25</guid>
 <pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
 <category>新闻</category>
-<category>国内</category>
-<description><![CDATA[10 月 24 日，中共宣布六省关键人事调整，距 10 月 26 日至 29 日在北京举行的五中全会仅两天。王志军任湖南省委书记、莫高义任云南省委书记，谢伟江、郭宁宁、诸葛宇杰、陈永奇、赵辰昕分别出任多省政府党组书记，预示将接任省长。这次调整被视为全会前的重要人事布局，省长任命仍需经省人大选举程序。]]></description>
-</item>
-<item>
-<title>【国内】台风“蔷琵”影响华东：台湾 1 人死亡、上百人受伤，上海转移 6 万余人</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-2</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
 <category>台风</category>
 <category>公共安全</category>
-<description><![CDATA[台风“蔷琵”掠过台湾东北部近海，台湾 1 人死亡、上百人受伤，逾千人撤离；上海发布避险转移指令，转移 6.05 万人。台风随后沿浙江东部近海北上。]]></description>
-</item>
-<item>
-<title>【国内】国办印发人工智能就业意见：18 项任务，减缓岗位替代冲击</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-3</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
 <category>人工智能</category>
 <category>就业</category>
 <category>政策</category>
-<description><![CDATA[国务院办公厅发布构建就业友好型发展方式的意见：拓展 AI 就业新空间、开发新职业，同时稳慎把握劳动密集型行业应用节奏，建立失业缓冲，治理算法就业歧视。]]></description>
-</item>
-<item>
-<title>【国内】前三季度财政数据：一般公共预算收入 17.23 万亿元，同比增长 5.1%</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-4</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
 <category>财政</category>
-<category>经济</category>
-<description><![CDATA[财政部数据：前三季度全国一般公共预算收入约 17.23 万亿元，同比增长 5.1%，增幅较上半年提高 0.4 个百分点；税收收入增长 6.1%。]]></description>
+<description><![CDATA[<h3>国内</h3><ol>
+<li><strong>1. 五中全会前夕六省人事调整：湖南、云南换帅，多省酝酿新省长</strong><br/>10月24日，中共宣布六省关键人事调整，距10月26日至29日在北京举行的五中全会仅两天。 <a href="https://www.reuters.com/world/china/chinas-communist-party-names-new-provincial-chiefs-ahead-fifth-plenum-2026-10-24/">原文</a></li>
+<li><strong>2. 台风“蔷琵”影响华东：台湾 1 人死亡、上百人受伤，上海转移 6 万余人</strong><br/>今年第30号台风“蔷琵”（强台风级）23日掠过台湾东北部近海，台湾灾害应变中心统计全台1人死亡、上百人受伤（法新社称至少350人受伤），逾千人撤离，台东沿岸掀起10米巨浪。 <a href="https://k.sina.cn/article_5953740931_162dee083067042y9g.html">原文</a></li>
+<li><strong>3. 国办印发人工智能就业意见：6 个方面 18 项任务，减缓岗位替代冲击</strong><br/>10月23日，国务院办公厅发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，从强化AI就业创造效应、构建就业友好型升级路径、提升劳动者数字素养等6个方面提出18项任务。 <a href="https://finance.sina.cn/2026-10-24/detail-iniwhnxu8218643.d.html">原文</a></li>
+<li><strong>4. 前三季度财政数据：一般公共预算收入 17.23 万亿元，同比增长 5.1%</strong><br/>财政部10月23日发布数据：今年前三季度全国一般公共预算收入约17.23万亿元，同比增长5.1%，增幅比上半年提高0.4个百分点；其中税收收入约14.07万亿元，同比增长6.1%。 <a href="https://finance.sina.cn/2026-10-24/detail-iniwhnxu8247963.d.html">原文</a></li>
+<li><strong>5. 李强主持国务院常务会议：统筹人口与经济社会发展，服务业扩能提质</strong><br/>国务院总理李强10月23日主持召开国务院常务会议，研究统筹人口与经济社会发展有关工作，听取推进全国服务业大会部署落实情况汇报。 <a href="https://finance.sina.cn/2026-10-24/detail-iniwhnxu8247963.d.html">原文</a></li>
+</ol>
+<h3>国外</h3><ol>
+<li><strong>1. 美情报警告：伊朗针对美方人员的致命图谋已到“后期阶段”</strong><br/>美国国家情报总监JayClayton在10月23日致国务卿鲁比奥的备忘录中警告，伊朗针对美方人员的行动已大幅加强，致命图谋在中东及其他地区均已到“后期阶段”。 <a href="https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/">原文</a></li>
+<li><strong>2. 金正恩经新开通大桥访问丹东并返朝，中朝经贸升温信号</strong><br/>据朝中社报道，朝鲜领导人金正恩10月24日经新开通的新鸭绿江公路大桥抵达中国边境城市丹东，参观朝鲜战争纪念设施，25日乘公路返朝。 <a href="https://www.reuters.com/business/aerospace-defense/north-koreas-kim-jong-un-returns-china-after-war-memorial-visit-state-media-says-2026-10-24/">原文</a></li>
+<li><strong>3. 伊朗军方称在阿巴斯港上空击落一架美军 LUCAS 无人机</strong><br/>据半官方的塔斯尼姆通讯社10月25日报道，伊朗防空系统在南部港口城市阿巴斯港上空击落一架美军LUCAS无人机，伊朗军方已证实此说法。 <a href="https://www.reuters.com/world/middle-east/iranian-army-says-it-shot-down-us-drone-over-bandar-abbas-tasnim-reports-2026-10-25/">原文</a></li>
+<li><strong>4. PHP 双严重漏洞引爆全球修补潮：利用尝试达数百万次，NSA 敦促立即更新或下线</strong><br/>PHP官方10月21日紧急修复两个严重漏洞（CVE-2026-109618、CVE-2026-109619，CVSS4.0评分9.2），可被未授权远程执行代码；漏洞由AI辅助研究发现，已潜伏多年。 <a href="https://www.thehindubusinessline.com/info-tech/php-security-flaws-trigger-millions-of-exploit-attempts-says-cloudflare-ceo/article71610284.ece">原文</a></li>
+<li><strong>5. 希腊通过法案：2027 年起禁止 15 岁以下儿童使用社交媒体</strong><br/>希腊议会10月23日通过法案，禁止15岁以下儿童使用社交媒体平台，2027年1月1日生效，理由是未成年人健康与安全担忧。 <a href="https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/">原文</a></li>
+</ol>
+<p>📖 <a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md">扩展阅读：2026-10-25 深度解读全文</a></p>]]></description>
+<content:encoded><![CDATA[<h2>每日新闻 · 2026-10-25</h2>
+<h3>国内</h3>
+<h4>1. 五中全会前夕六省人事调整：湖南、云南换帅，多省酝酿新省长</h4>
+<p>10 月 24 日，中共宣布六省关键人事调整，距 10 月 26 日至 29 日在北京举行的五中全会仅两天。王志军任湖南省委书记、莫高义任云南省委书记，谢伟江、郭宁宁、诸葛宇杰、陈永奇、赵辰昕分别出任多省政府党组书记，预示将接任省长。这次调整被视为全会前的重要人事布局，省长任命仍需经省人大选举程序。</p>
+<p>来源：<a href="https://www.reuters.com/world/china/chinas-communist-party-names-new-provincial-chiefs-ahead-fifth-plenum-2026-10-24/">Reuters</a></p>
+<h4>2. 台风“蔷琵”影响华东：台湾 1 人死亡、上百人受伤，上海转移 6 万余人</h4>
+<p>今年第 30 号台风“蔷琵”（强台风级）23 日掠过台湾东北部近海，台湾灾害应变中心统计全台 1 人死亡、上百人受伤（法新社称至少 350 人受伤），逾千人撤离，台东沿岸掀起 10 米巨浪。上海 6 区发布台风蓝色预警，市防汛指挥部下达避险转移指令，涉及 6 区部分街镇及临港、洋山，共 6.05 万人；浦东、虹桥等机场进入受扰范围。蔷琵随后沿浙江东部近海北上，趋向日本西南部沿海。</p>
+<p>来源：<a href="https://k.sina.cn/article_5953740931_162dee083067042y9g.html">新浪新闻（上观新闻）</a></p>
+<h4>3. 国办印发人工智能就业意见：6 个方面 18 项任务，减缓岗位替代冲击</h4>
+<p>10 月 23 日，国务院办公厅发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，从强化 AI 就业创造效应、构建就业友好型升级路径、提升劳动者数字素养等 6 个方面提出 18 项任务。文件要求拓展新兴领域 AI 就业新空间、加快开发 AI 新职业，同时稳慎把握 AI 在劳动密集型行业应用的范围、力度、节奏，并提出建立失业缓冲、治理算法就业歧视、完善新就业形态社保等安排。</p>
+<p>来源：<a href="https://finance.sina.cn/2026-10-24/detail-iniwhnxu8218643.d.html">新浪财经</a></p>
+<h4>4. 前三季度财政数据：一般公共预算收入 17.23 万亿元，同比增长 5.1%</h4>
+<p>财政部 10 月 23 日发布数据：今年前三季度全国一般公共预算收入约 17.23 万亿元，同比增长 5.1%，增幅比上半年提高 0.4 个百分点；其中税收收入约 14.07 万亿元，同比增长 6.1%。同期一般公共预算支出约 21.02 万亿元，同比增长 1%，“投资于人”相关支出得到较好保障。收入增速回升显示经济与财政运行保持平稳。</p>
+<p>来源：<a href="https://finance.sina.cn/2026-10-24/detail-iniwhnxu8247963.d.html">新华财经早报（新浪财经）</a></p>
+<h4>5. 李强主持国务院常务会议：统筹人口与经济社会发展，服务业扩能提质</h4>
+<p>国务院总理李强 10 月 23 日主持召开国务院常务会议，研究统筹人口与经济社会发展有关工作，听取推进全国服务业大会部署落实情况汇报。会议指出，要进一步发挥服务业对经济发展的支撑作用，加力推进服务业扩能提质，聚焦生产生活重点领域因业施策，加强融资、用地、人才、数据等支持，稳步推进公共事业领域价格改革，盘活用好闲置资源。</p>
+<p>来源：<a href="https://finance.sina.cn/2026-10-24/detail-iniwhnxu8247963.d.html">新华财经早报（新浪财经）</a></p>
+<h3>国外</h3>
+<h4>1. 美情报警告：伊朗针对美方人员的致命图谋已到“后期阶段”</h4>
+<p>美国国家情报总监 Jay Clayton 在 10 月 23 日致国务卿鲁比奥的备忘录中警告，伊朗针对美方人员的行动已大幅加强，致命图谋在中东及其他地区均已到“后期阶段”。此前美方已下令沙特非紧急人员及家属撤离，并于 10 月 24 日更新十多个海湾和中东国家的旅行提示，理由是伊朗支持的胡塞武装威胁上升。伊朗战争已近八个月，此事加剧了地区升级与美方人员安全担忧。</p>
+<p>来源：<a href="https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/">Reuters</a></p>
+<h4>2. 金正恩经新开通大桥访问丹东并返朝，中朝经贸升温信号</h4>
+<p>据朝中社报道，朝鲜领导人金正恩 10 月 24 日经新开通的新鸭绿江公路大桥抵达中国边境城市丹东，参观朝鲜战争纪念设施，25 日乘公路返朝。金正恩表示朝鲜人民将“永远铭记与中国人民并肩战斗的光荣岁月”。此访被视为北京与平壤扩大经贸关系的推进动作，也发生在美国总统特朗普下月访问该地区之前；金正恩上次访华是 2025 年 9 月出席阅兵。</p>
+<p>来源：<a href="https://www.reuters.com/business/aerospace-defense/north-koreas-kim-jong-un-returns-china-after-war-memorial-visit-state-media-says-2026-10-24/">Reuters</a></p>
+<h4>3. 伊朗军方称在阿巴斯港上空击落一架美军 LUCAS 无人机</h4>
+<p>据半官方的塔斯尼姆通讯社 10 月 25 日报道，伊朗防空系统在南部港口城市阿巴斯港上空击落一架美军 LUCAS 无人机，伊朗军方已证实此说法。报道未给出美方回应。在美情报部门刚警告伊朗针对美方人员图谋升级的背景下，此事进一步推高美伊对峙的紧张程度。</p>
+<p>来源：<a href="https://www.reuters.com/world/middle-east/iranian-army-says-it-shot-down-us-drone-over-bandar-abbas-tasnim-reports-2026-10-25/">Reuters</a></p>
+<h4>4. PHP 双严重漏洞引爆全球修补潮：利用尝试达数百万次，NSA 敦促立即更新或下线</h4>
+<p>PHP 官方 10 月 21 日紧急修复两个严重漏洞（CVE-2026-109618、CVE-2026-109619，CVSS 4.0 评分 9.2），可被未授权远程执行代码；漏洞由 AI 辅助研究发现，已潜伏多年。Cloudflare CEO 称公开后利用尝试从数千次激增至数百万次；欧洲多国政府网站一度下线，日本财务省、三菱日联等机构采取紧急措施；美国 NSA 敦促无法立即更新的机构先将系统下线。PHP 运行在全球约七成可识别服务器语言的网站上，官方称升级是唯一完整解法，PHP 8.1 及更早版本已无官方补丁。</p>
+<p>来源：<a href="https://www.thehindubusinessline.com/info-tech/php-security-flaws-trigger-millions-of-exploit-attempts-says-cloudflare-ceo/article71610284.ece">The Hindu BusinessLine（Reuters）</a></p>
+<h4>5. 希腊通过法案：2027 年起禁止 15 岁以下儿童使用社交媒体</h4>
+<p>希腊议会 10 月 23 日通过法案，禁止 15 岁以下儿童使用社交媒体平台，2027 年 1 月 1 日生效，理由是未成年人健康与安全担忧。总理米佐塔基斯称平台有约两个半月设计年龄核验与隐私保护方案；希腊正与欧盟委员会及另外六个成员国寻求共同的年龄核验方案。此前澳大利亚已率先立法限制未成年人使用社交媒体，法国类似法律则在今年 8 月被宪法委员会推翻。</p>
+<p>来源：<a href="https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/">Reuters</a></p>
+<p>原文归档：<a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</a></p>]]></content:encoded>
 </item>
 <item>
-<title>【国内】李强主持国务院常务会议：统筹人口与经济社会发展，服务业扩能提质</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-domestic-5</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
+<title>每日新闻 · 2026-10-24（国内 1 条 + 国外 1 条）</title>
+<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md</link>
+<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md#2026-10-24</guid>
+<pubDate>Fri, 23 Oct 2026 15:06:00 +0800</pubDate>
 <category>新闻</category>
-<category>国内</category>
-<category>国务院</category>
-<category>服务业</category>
-<description><![CDATA[会议研究统筹人口与经济社会发展有关工作，要求推进服务业扩能提质，加强融资、用地、人才、数据支持，盘活用好闲置资源。]]></description>
+<category>地震</category>
+<category>公共安全</category>
+<category>俄乌</category>
+<category>地缘政治</category>
+<category>人道主义</category>
+<description><![CDATA[<h3>国内</h3><ol>
+<li><strong>西藏那曲巴青县 7.0 级地震已致 16 人遇难、76 人受伤，救援持续</strong><br/>10月22日22时33分，西藏那曲市巴青县发生7.0级地震。 <a href="https://k.sina.cn/article_1644114654_61ff32de02002c6ko.html?from=news">原文</a></li>
+</ol>
+<h3>国外</h3><ol>
+<li><strong>俄乌同意在奥列什基暂时停火，10 月 29 日起疏散平民、运送援助</strong><br/>白宫方面称，俄乌已同意在赫尔松地区奥列什基暂时停火：局部停火将于10月29日开始，用于疏散当地以老年人为主的居民并运送食品、药品等人道物资；俄方另称俄美乌会谈将于11月上旬在阿布扎比举行（新华社晨报与美媒报道相互印证）。 <a href="https://nypost.com/2026/10/23/world-news/melania-trump-secures-cease-fire-in-ukrainian-city-on-brink-of-humanitarian-catastrophe/">原文</a></li>
+</ol>
+<p>📖 <a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md">扩展阅读：2026-10-24 深度解读全文</a></p>]]></description>
+<content:encoded><![CDATA[<h2>每日新闻 · 2026-10-24</h2>
+<h3>西藏那曲巴青县 7.0 级地震已致 16 人遇难、76 人受伤，救援持续</h3>
+<p>10 月 22 日 22 时 33 分，西藏那曲市巴青县发生 7.0 级地震。据新华社消息，截至 10 月 23 日 13 时，地震已造成 16 人遇难、76 人受伤，房屋倒塌及受损共 339 户。国家地震灾害应急响应已提升至三级，消防救援等力量持续赶赴灾区，救灾物资陆续运抵。这是当前国内最重要的突发事件，伤亡与安置情况仍在更新。</p>
+<p>来源：<a href="https://k.sina.cn/article_1644114654_61ff32de02002c6ko.html?from=news">新浪新闻（新华社）</a></p>
+<h3>俄乌同意在奥列什基暂时停火，10 月 29 日起疏散平民、运送援助</h3>
+<p>白宫方面称，俄乌已同意在赫尔松地区奥列什基暂时停火：局部停火将于 10 月 29 日开始，用于疏散当地以老年人为主的居民并运送食品、药品等人道物资；俄方另称俄美乌会谈将于 11 月上旬在阿布扎比举行（新华社晨报与美媒报道相互印证）。这是俄乌冲突近期少见的实质性人道进展，后续执行情况值得跟踪。</p>
+<p>来源：<a href="https://nypost.com/2026/10/23/world-news/melania-trump-secures-cease-fire-in-ukrainian-city-on-brink-of-humanitarian-catastrophe/">New York Post</a></p>
+<p>原文归档：<a href="https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md</a></p>]]></content:encoded>
 </item>
-<item>
-<title>【国外】美情报警告：伊朗针对美方人员的致命图谋已到“后期阶段”</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<description><![CDATA[美国国家情报总监 Jay Clayton 在 10 月 23 日致国务卿鲁比奥的备忘录中警告，伊朗针对美方人员的行动已大幅加强，致命图谋在中东及其他地区均已到“后期阶段”。此前美方已下令沙特非紧急人员及家属撤离，并于 10 月 24 日更新十多个海湾和中东国家的旅行提示，理由是伊朗支持的胡塞武装威胁上升。伊朗战争已近八个月，此事加剧了地区升级与美方人员安全担忧。]]></description>
-</item>
-<item>
-<title>【国外】金正恩经新开通大桥访问丹东并返朝，中朝经贸升温信号</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-2</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>朝鲜</category>
-<category>中朝关系</category>
-<description><![CDATA[金正恩 10 月 24 日经新开通的新鸭绿江公路大桥到访丹东，参观朝鲜战争纪念设施后于 25 日返朝，被视为中朝扩大经贸关系的动作。]]></description>
-</item>
-<item>
-<title>【国外】伊朗军方称在阿巴斯港上空击落一架美军 LUCAS 无人机</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-3</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>伊朗</category>
-<category>美国</category>
-<category>中东</category>
-<description><![CDATA[据塔斯尼姆通讯社，伊朗防空系统在南部港口城市阿巴斯港上空击落一架美军 LUCAS 无人机；正值美情报警告伊朗图谋升级，美伊紧张再升。]]></description>
-</item>
-<item>
-<title>【国外】PHP 双严重漏洞引爆全球修补潮，利用尝试达数百万次</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-4</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>网络安全</category>
-<category>PHP</category>
-<category>科技</category>
-<description><![CDATA[PHP 两个 CVSS 9.2 严重漏洞可未授权远程执行代码，公开后利用尝试激增至数百万次；多国政府与机构紧急处置，NSA 敦促立即更新或下线。]]></description>
-</item>
-<item>
-<title>【国外】希腊通过法案：2027 年起禁止 15 岁以下儿童使用社交媒体</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-25.md#2026-10-25-international-5</guid>
-<pubDate>Sun, 25 Oct 2026 09:37:00 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>希腊</category>
-<category>社交媒体</category>
-<category>未成年人</category>
-<description><![CDATA[希腊议会通过法案，2027 年 1 月 1 日起禁止 15 岁以下儿童使用社交媒体，平台须在约两个半月内拿出年龄核验与隐私方案。]]></description>
-</item>
+
 <item>
 <title>Great Books｜但丁与现代性：《神曲》中的中世纪宇宙与现代自我</title>
 <link>https://github.com/haloworld-C/NewFeed/blob/main/great-books/2026-10-24-dante-modernity.md</link>
@@ -268,29 +255,6 @@
 <category>现代性</category>
 <category>宗教</category>
 <description><![CDATA[但丁的《神曲》仍属于完整的中世纪基督教宇宙，却已经让一个具体的“我”成为理解世界的中心入口。本期从流亡、个人经验、贝雅特丽齐、俗语写作、政治判断与世俗秩序出发，讨论但丁为什么既是中世纪诗人，又常被视为现代性的先声；同时关注语言如何重新分配知识权力，以及个人如何在不摧毁共同意义世界的前提下获得主体性。]]></description>
-</item>
-<item>
-<title>西藏那曲巴青县 7.0 级地震已致 16 人遇难、76 人受伤，救援持续</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md#2026-10-24-domestic</guid>
-<pubDate>Fri, 23 Oct 2026 15:06:00 +0800</pubDate>
-<category>新闻</category>
-<category>国内</category>
-<category>地震</category>
-<category>公共安全</category>
-<description><![CDATA[10 月 22 日 22 时 33 分，西藏那曲市巴青县发生 7.0 级地震。据新华社消息，截至 10 月 23 日 13 时，地震已造成 16 人遇难、76 人受伤，房屋倒塌及受损共 339 户。国家地震灾害应急响应已提升至三级，消防救援等力量持续赶赴灾区，救灾物资陆续运抵。这是当前国内最重要的突发事件，伤亡与安置情况仍在更新。]]></description>
-</item>
-<item>
-<title>俄乌同意在奥列什基暂时停火，10 月 29 日起疏散平民、运送援助</title>
-<link>https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md</link>
-<guid isPermaLink="false">https://github.com/haloworld-C/NewFeed/blob/main/news/2026-10-24.md#2026-10-24-international</guid>
-<pubDate>Sat, 24 Oct 2026 08:35:00 +0800</pubDate>
-<category>新闻</category>
-<category>国外</category>
-<category>俄乌</category>
-<category>地缘政治</category>
-<category>人道主义</category>
-<description><![CDATA[白宫方面称，俄乌已同意在赫尔松地区奥列什基暂时停火：局部停火将于 10 月 29 日开始，用于疏散当地以老年人为主的居民并运送食品、药品等人道物资；俄方另称俄美乌会谈将于 11 月上旬在阿布扎比举行（新华社晨报与美媒报道相互印证）。这是俄乌冲突近期少见的实质性人道进展，后续执行情况值得跟踪。]]></description>
 </item>
 
 </channel>
